@@ -1,0 +1,2 @@
+- extract the ZIP archive
+- run the shortcut Konjugaattori 3000.lnk
