@@ -10,7 +10,7 @@ class Updater():
 
     logging.basicConfig(level=logging.INFO, format='%(levelname)s - %(message)s')
     logging.disable(logging.WARNING)
-    currentVersion = '3017.2'
+    currentVersion = '3018.1'
 
     def __init__(self):
         self.main()

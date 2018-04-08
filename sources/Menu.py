@@ -44,7 +44,7 @@ class Menu():
 
     def conjugationRules(self):
         print(Fore.LIGHTBLUE_EX + '\nVerb Type')
-        verbTypes = ['a/ä', 'da/dä', 'la/lä/ra/rä/na/nä', 'ta/tä or -eta/etä and do not mean a change of state',
+        verbTypes = ['a/ä', 'da/dä', 'la/lä/ra/rä/na/nä', 'ta/tä or -eta/etä and does not mean a change of state',
                      'ita/itä', 'eta/etä and means a change of state', 'hda/hdä (nähdä, tehdä, etc.)', 'olla',
                      'vitä (hävitä, levitä, selvitä, etc.)', 'juosta', 'sta/stä (type 3-verbs which do not get gradated)']
         for i in range(len(verbTypes)):
